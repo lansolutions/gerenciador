@@ -1,0 +1,17 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Estudar Angular",
+        "description": "Revisar os conceitos principais do Angular",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "title": "Fazer compra",
+        "description": "Comprar frutas e verduras",
+        "completed": true
+      }
+    ]
+  }
+  
